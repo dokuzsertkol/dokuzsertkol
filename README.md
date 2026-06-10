@@ -56,3 +56,14 @@ It’s interesting, it’s powerful, and sometimes it actually works.
 
 - 🔗 [[Python] Building Inventory & Earthquake Risk Scoring](https://github.com/dokuzsertkol/Building-Inventory-and-Earthquake-Risk-Score-Calculation)  
   Risk scoring system built with Python, SQLite database, and Tkinter UI.
+
+---
+
+### 🖥️ Desktop & Legacy Systems
+Me before I knew what the internet was, thinking desktop apps were the final boss of programming.
+
+- 🔗 [[.NET] WinForms Hotel Management System](https://github.com/dokuzsertkol/WinForms-ADO.NET-MSSQL-Hotel-Management)  
+  Desktop management system for hotels, staff, and reservations.
+
+- 🔗 [[C++] Personal Accounting Application](https://github.com/dokuzsertkol/Kisisel-Muhasebe-Uygulamasi)  
+  Expense tracking application with simple reporting and date-based filtering.

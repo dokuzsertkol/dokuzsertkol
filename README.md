@@ -4,6 +4,10 @@
 This is the part of programming I actually fell like an engineer.  
 Building systems, designing architecture, and making things talk to each other without breaking.
 
+
+- 🔗 [[Go] p2p-go](https://github.com/dokuzsertkol/p2p-go)
+  P2P networking library in Go, featuring TLS encryption, RSA-signed messaging, and automated peer discovery.
+  
 - 🔗 [[Go] fsm-go](https://github.com/dokuzsertkol/fsm-go)  
   Generic finite state machine library with type-safe transitions and flexible event handling.
 

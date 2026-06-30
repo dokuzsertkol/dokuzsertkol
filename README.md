@@ -9,16 +9,16 @@ Building systems, designing architecture, and making things talk to each other w
   P2P networking library featuring TLS encryption, RSA-signed messaging, and automated peer discovery.
   
 - 🔗 [[Go] fsm-go](https://github.com/dokuzsertkol/fsm-go)  
-  Generic finite state machine library with type-safe transitions and flexible event handling.
+  Generic finite state machine library supporting guards, hooks, transactional transitions and visualization via Graphviz/Mermaid.
 
 - 🔗 [[Go] eventbus-go](https://github.com/dokuzsertkol/eventbus-go)  
-  Concurrent event bus implementation with worker pool architecture and panic recovery.
+  Type-safe concurrent event bus with asynchronous handlers, worker pool scheduling and panic recovery.
 
 - 🔗 [[Go] dokuzsozluk](https://github.com/dokuzsertkol/dokuzsozluk)  
-  Backend system built with Clean Architecture, JWT authentication, RBAC, and PostgreSQL.
+  Collaborative forum backend built with Go featuring role-based authorization, search, pagination, rate limiting and PostgreSQL.
 
 - 🔗 [[Node.js] FlowerForAll](https://github.com/dokuzsertkol/FlowerForAll)  
-  MERN stack application with backend services, caching layer, and full-stack deployment (Vercel, Render, AWS).
+  MERN stack real-time application with using WebSockets, Redis caching, scalable backend architecture and full-stack deployment (Vercel, Render, AWS).
 
 - 🔗 [[ASP.NET] Announcement API](https://github.com/dokuzsertkol/RESTful-API-ASP.NET-EFCore-JWT-Identity-CleanArchitecture-AnnouncementAPI)  
   RESTful API built using ASP.NET Core, EF Core, JWT authentication, and Clean Architecture principles.

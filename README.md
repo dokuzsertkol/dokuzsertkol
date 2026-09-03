@@ -4,6 +4,8 @@
 This is the part of programming I actually fell like an engineer.  
 Building systems, designing architecture, and making things talk to each other without breaking.
 
+- 🔗 [[C] spang-compiler](https://github.com/dokuzsertkol/spang-compiler)  
+  [Active Development] Compiler for my experimental systems-oriented programming language called "Spang".
 
 - 🔗 [[Go] p2p-go](https://github.com/dokuzsertkol/p2p-go)  
   P2P networking library featuring TLS encryption, RSA-signed messaging, and automated peer discovery.

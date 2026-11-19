@@ -3,10 +3,10 @@
 ### 📟 Embedded & Low Level Programming
 This is the part of programming that makes me feel like an engineer.
 
-- 🔗 [[C] Linux Dual Pico 2W TCP/UART Bridge](https://github.com/dokuzsertkol/Linux-Dual-Pico-TCP-UART-Bridge)
+- 🔗 [[C] Linux Dual Pico 2W TCP/UART Bridge](https://github.com/dokuzsertkol/Linux-Dual-Pico-TCP-UART-Bridge)  
   Bidirectional networking bridge connecting two Raspberry Pi Pico 2 W boards through Wi-Fi, TCP and UART, targeting lossless data transfer at 1 Mbaud.
   
-- 🔗 [[C] Linux Pi 5 Pico 2W UDP I2C Image Transfer System](https://github.com/dokuzsertkol/Linux-Pi-5-Pico-2W-UDP-I2C-Image-Transfer)
+- 🔗 [[C] Linux Pi 5 Pico 2W UDP I2C Image Transfer System](https://github.com/dokuzsertkol/Linux-Pi-5-Pico-2W-UDP-I2C-Image-Transfer)  
   Image transfer system forwarding data from a Linux server to a Raspberry Pi 5 over UDP, then to a Raspberry Pi Pico 2 W over I2C.
 
 - 🔗 [[C] spang-compiler](https://github.com/dokuzsertkol/spang-compiler)  
